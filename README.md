@@ -1,4 +1,4 @@
-# YouTube Playlist Processor - Obsidian optimized
+# YouTube Playlist Processor - Obsidian Optimized
 <br>
 <br>
 
