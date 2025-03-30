@@ -1,8 +1,19 @@
-# YouTube Playlist Processor
+# YouTube Playlist Processor - Obsidian optimized
 <br>
 <br>
 
-![Alt text for the image](Images/image.jpg)<br><br>
+## This Fork is just created to get youtube videos in text format for Obsidian
+
+>> YAML frontend 
+
+>> Title Automation
+
+>> Markdown Format and ".md" file
+
+>> All credit goes to the original creator. I just wanted to share what helps my needs
+
+![Obsidian_tsrgcI7vkt](https://github.com/user-attachments/assets/253eb542-a288-44bf-a07c-4cb1f5c889a3)<br><br>
+
 
 ✅ Added several Refinement styles to choose from based on your specific needs.
 > The "Refinement Style" dropdown allows you to choose how AI will process the YouTube transcript. Here's a description of each style:
