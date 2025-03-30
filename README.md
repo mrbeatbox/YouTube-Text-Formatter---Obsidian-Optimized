@@ -1,8 +1,10 @@
-# YouTube Playlist Processor - Obsidian Optimized
+# YTTF - YouTube Text Formatter - Obsidian Optimized
 <br>
 <br>
 
 ## This Fork is just created to get youtube videos in text format for Obsidian
+
+>> All allowed Gemini models included
 
 >> YAML frontend 
 
