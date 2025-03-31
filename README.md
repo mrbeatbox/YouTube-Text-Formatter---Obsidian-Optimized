@@ -16,6 +16,7 @@
 
 ![Obsidian_tsrgcI7vkt](https://github.com/user-attachments/assets/253eb542-a288-44bf-a07c-4cb1f5c889a3)<br><br>
 
+![ySlRqNj3pN](https://github.com/user-attachments/assets/dec51ba0-214b-43df-ac06-b75b21688af6)<br>
 
 ✅ Added several Refinement styles to choose from based on your specific needs.
 > The "Refinement Style" dropdown allows you to choose how AI will process the YouTube transcript. Here's a description of each style:
