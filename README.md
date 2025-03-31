@@ -67,9 +67,6 @@ Read more about it in this [Medium Article](https://medium.com/@ebrahimgolriz444
 <br><br><br><br>
 
 
-![Alt text for the image](Images/image2.png)<br><br>
-
-
 
 ## Features
 - 🎥 Automatic transcript extraction from YouTube playlists
